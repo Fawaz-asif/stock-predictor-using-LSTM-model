@@ -18,9 +18,7 @@ Interactive graph of actual vs predicted prices
 
  NOTES:
 
-Default epochs are set to 3 for faster demonstration.
 
-For increased accuracy, you can raise the number of epochs (e.g., 20–50), but this will also increase training time.
 
 Accuracy depends on training length, stock volatility, and amount of historical data.
 
