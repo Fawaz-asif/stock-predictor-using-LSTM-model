@@ -62,7 +62,7 @@ if st.button("Predict"):
             model.add(Dense(1))
 
             model.compile(optimizer="adam", loss="mean_squared_error")
-            model.fit(x_train, y_train, epochs=3, batch_size=32, verbose=0)
+            model.fit(x_train, y_train, epochs=50, batch_size=32, verbose=0)
 
             
             # Evaluate Model
@@ -119,3 +119,4 @@ if st.button("Predict"):
 
         except Exception as e:
             st.error(f"❌ An error occurred: {e}")
+
