@@ -8,7 +8,7 @@
 [![PyTorch/Keras](https://img.shields.io/badge/Deep_Learning-LSTM-FF6F00?style=for-the-badge&logo=keras&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-### ðŸŒ **[Live Demo: Try the Streamlit App Here!](https://stock-predictor-using-lstm-model-km4vnsnhvstukrral4ra4e.streamlit.app/)**
+### **[Live Demo: Try the Streamlit App Here!](https://stock-predictor-using-lstm-model-km4vnsnhvstukrral4ra4e.streamlit.app/)**
 
 A machine learning application that uses Long Short-Term Memory (LSTM) neural networks to predict future stock prices based on historical market data. Designed to demonstrate competency in time-series forecasting, sequential data processing, and financial data analysis.
 
