@@ -1,76 +1,76 @@
--<-d-i-v- -a-l-i-g-n-=-"-c-e-n-t-e-r-"->-
--
--#- -�-�- -L-S-T-M- -S-t-o-c-k- -P-r-e-d-i-c-t-o-r-
--
--#-#-#- -T-i-m-e---S-e-r-i-e-s- -F-o-r-e-c-a-s-t-i-n-g- -f-o-r- -F-i-n-a-n-c-i-a-l- -M-a-r-k-e-t-s- -u-s-i-n-g- -D-e-e-p- -L-e-a-r-n-i-n-g-
--
--[-!-[-P-y-t-h-o-n-]-(-h-t-t-p-s-:-/-/-i-m-g-.-s-h-i-e-l-d-s-.-i-o-/-b-a-d-g-e-/-P-y-t-h-o-n---3-.-1-0-+---3-7-7-6-A-B-?-s-t-y-l-e-=-f-o-r---t-h-e---b-a-d-g-e-&-l-o-g-o-=-p-y-t-h-o-n-&-l-o-g-o-C-o-l-o-r-=-w-h-i-t-e-)-]-(-h-t-t-p-s-:-/-/-p-y-t-h-o-n-.-o-r-g-)-
--[-!-[-P-y-T-o-r-c-h-/-K-e-r-a-s-]-(-h-t-t-p-s-:-/-/-i-m-g-.-s-h-i-e-l-d-s-.-i-o-/-b-a-d-g-e-/-D-e-e-p-_-L-e-a-r-n-i-n-g---L-S-T-M---F-F-6-F-0-0-?-s-t-y-l-e-=-f-o-r---t-h-e---b-a-d-g-e-&-l-o-g-o-=-k-e-r-a-s-&-l-o-g-o-C-o-l-o-r-=-w-h-i-t-e-)-]-(-#-)-
--[-!-[-P-a-n-d-a-s-]-(-h-t-t-p-s-:-/-/-i-m-g-.-s-h-i-e-l-d-s-.-i-o-/-b-a-d-g-e-/-P-a-n-d-a-s---1-5-0-4-5-8-?-s-t-y-l-e-=-f-o-r---t-h-e---b-a-d-g-e-&-l-o-g-o-=-p-a-n-d-a-s-&-l-o-g-o-C-o-l-o-r-=-w-h-i-t-e-)-]-(-h-t-t-p-s-:-/-/-p-a-n-d-a-s-.-p-y-d-a-t-a-.-o-r-g-/-)-
--
--#-#-#- -�-�- -*-*-[-L-i-v-e- -D-e-m-o-:- -T-r-y- -t-h-e- -S-t-r-e-a-m-l-i-t- -A-p-p- -H-e-r-e-!-]-(-h-t-t-p-s-:-/-/-s-t-o-c-k---p-r-e-d-i-c-t-o-r---u-s-i-n-g---l-s-t-m---m-o-d-e-l---k-m-4-v-n-s-n-h-v-s-t-u-k-r-r-a-l-4-r-a-4-e-.-s-t-r-e-a-m-l-i-t-.-a-p-p-/-)-*-*-
--
--A- -m-a-c-h-i-n-e- -l-e-a-r-n-i-n-g- -a-p-p-l-i-c-a-t-i-o-n- -t-h-a-t- -u-s-e-s- -L-o-n-g- -S-h-o-r-t---T-e-r-m- -M-e-m-o-r-y- -(-L-S-T-M-)- -n-e-u-r-a-l- -n-e-t-w-o-r-k-s- -t-o- -p-r-e-d-i-c-t- -f-u-t-u-r-e- -s-t-o-c-k- -p-r-i-c-e-s- -b-a-s-e-d- -o-n- -h-i-s-t-o-r-i-c-a-l- -m-a-r-k-e-t- -d-a-t-a-.- -D-e-s-i-g-n-e-d- -t-o- -d-e-m-o-n-s-t-r-a-t-e- -c-o-m-p-e-t-e-n-c-y- -i-n- -t-i-m-e---s-e-r-i-e-s- -f-o-r-e-c-a-s-t-i-n-g-,- -s-e-q-u-e-n-t-i-a-l- -d-a-t-a- -p-r-o-c-e-s-s-i-n-g-,- -a-n-d- -f-i-n-a-n-c-i-a-l- -d-a-t-a- -a-n-a-l-y-s-i-s-.-
--
--<-/-d-i-v->-
--
--------
--
--#-#- -�-�- -W-h-y- -L-S-T-M-s-?-
--
--S-t-a-n-d-a-r-d- -n-e-u-r-a-l- -n-e-t-w-o-r-k-s- -e-v-a-l-u-a-t-e- -d-a-t-a- -p-o-i-n-t-s- -i-n-d-e-p-e-n-d-e-n-t-l-y-.- -F-i-n-a-n-c-i-a-l- -m-a-r-k-e-t-s-,- -h-o-w-e-v-e-r-,- -a-r-e- -s-e-q-u-e-n-t-i-a-l- ----- -t-o-d-a-y-'-s- -p-r-i-c-e- -i-s- -h-e-a-v-i-l-y- -i-n-f-l-u-e-n-c-e-d- -b-y- -y-e-s-t-e-r-d-a-y-'-s- -p-r-i-c-e-.- -
--
--*-*-L-o-n-g- -S-h-o-r-t---T-e-r-m- -M-e-m-o-r-y- -(-L-S-T-M-)-*-*- -n-e-t-w-o-r-k-s- -a-r-e- -a- -s-p-e-c-i-a-l-i-z-e-d- -t-y-p-e- -o-f- -R-e-c-u-r-r-e-n-t- -N-e-u-r-a-l- -N-e-t-w-o-r-k- -(-R-N-N-)- -t-h-a-t- -c-a-n- -m-a-i-n-t-a-i-n- -a-n- -"-i-n-t-e-r-n-a-l- -s-t-a-t-e-"- -o-r- -m-e-m-o-r-y- -o-v-e-r- -l-o-n-g- -s-e-q-u-e-n-c-e-s-,- -m-a-k-i-n-g- -t-h-e-m- -t-h-e- -i-n-d-u-s-t-r-y- -s-t-a-n-d-a-r-d- -a-r-c-h-i-t-e-c-t-u-r-e- -f-o-r- -t-i-m-e---s-e-r-i-e-s- -f-o-r-e-c-a-s-t-i-n-g- -l-i-k-e- -s-t-o-c-k- -p-r-i-c-e- -p-r-e-d-i-c-t-i-o-n-.-
--
--------
--
--#-#- -�-�- -F-e-a-t-u-r-e-s-
--
---- -*-*-D-a-t-a- -F-e-t-c-h-i-n-g- -&- -P-r-e-p-r-o-c-e-s-s-i-n-g-*-*-:- -A-u-t-o-m-a-t-i-c-a-l-l-y- -p-u-l-l-s- -h-i-s-t-o-r-i-c-a-l- -s-t-o-c-k- -d-a-t-a- -a-n-d- -s-c-a-l-e-s- -i-t- -f-o-r- -n-e-u-r-a-l- -n-e-t-w-o-r-k- -c-o-n-s-u-m-p-t-i-o-n-.-
---- -*-*-S-e-q-u-e-n-c-e- -G-e-n-e-r-a-t-i-o-n-*-*-:- -C-o-n-v-e-r-t-s- -f-l-a-t- -t-i-m-e---s-e-r-i-e-s- -d-a-t-a- -i-n-t-o- -s-l-i-d-i-n-g- -w-i-n-d-o-w- -s-e-q-u-e-n-c-e-s- -r-e-q-u-i-r-e-d- -f-o-r- -L-S-T-M- -t-r-a-i-n-i-n-g-.-
---- -*-*-D-e-e-p- -L-e-a-r-n-i-n-g- -A-r-c-h-i-t-e-c-t-u-r-e-*-*-:- -C-u-s-t-o-m- -L-S-T-M- -m-o-d-e-l- -d-e-s-i-g-n-e-d- -t-o- -c-a-p-t-u-r-e- -b-o-t-h- -s-h-o-r-t---t-e-r-m- -v-o-l-a-t-i-l-i-t-y- -a-n-d- -l-o-n-g---t-e-r-m- -t-r-e-n-d-s-.-
---- -*-*-V-i-s-u-a-l-i-z-a-t-i-o-n-*-*-:- -G-e-n-e-r-a-t-e-s- -c-l-e-a-r-,- -c-o-m-p-a-r-a-t-i-v-e- -g-r-a-p-h-s- -s-h-o-w-i-n-g- -a-c-t-u-a-l- -h-i-s-t-o-r-i-c-a-l- -p-r-i-c-e-s- -v-s-.- -t-h-e- -m-o-d-e-l-'-s- -p-r-e-d-i-c-t-i-o-n-s-.-
--
--------
--
--#-#- -⚙-️- -G-e-t-t-i-n-g- -S-t-a-r-t-e-d-
--
--#-#-#- -P-r-e-r-e-q-u-i-s-i-t-e-s-
---- -P-y-t-h-o-n- -3-.-8-+-
---- -p-i-p-
--
--#-#-#- -I-n-s-t-a-l-l-a-t-i-o-n-
--
--1-.- -C-l-o-n-e- -t-h-e- -r-e-p-o-s-i-t-o-r-y-:-
--\-\-\--a-s-h-
--g-i-t- -c-l-o-n-e- -h-t-t-p-s-:-/-/-g-i-t-h-u-b-.-c-o-m-/-F-a-w-a-z---a-s-i-f-/-s-t-o-c-k---p-r-e-d-i-c-t-o-r---u-s-i-n-g---L-S-T-M---m-o-d-e-l-.-g-i-t-
--c-d- -s-t-o-c-k---p-r-e-d-i-c-t-o-r---u-s-i-n-g---L-S-T-M---m-o-d-e-l-
--\-\-\-
--
--2-.- -I-n-s-t-a-l-l- -d-e-p-e-n-d-e-n-c-i-e-s-:-
--\-\-\--a-s-h-
--p-i-p- -i-n-s-t-a-l-l- ---r- -r-e-q-u-i-r-e-m-e-n-t-s-.-t-x-t-
--\-\-\-
--
--3-.- -R-u-n- -t-h-e- -a-p-p-l-i-c-a-t-i-o-n-:-
--\-\-\--a-s-h-
--p-y-t-h-o-n- -a-p-p-.-p-y-
--\-\-\-
--
--------
--
--#-#- -�-�- -C-o-n-t-i-n-u-o-u-s- -I-n-t-e-g-r-a-t-i-o-n-
--
--T-h-i-s- -r-e-p-o-s-i-t-o-r-y- -i-m-p-l-e-m-e-n-t-s- -a- -C-I-/-C-D- -p-i-p-e-l-i-n-e- -u-s-i-n-g- -*-*-G-i-t-H-u-b- -A-c-t-i-o-n-s-*-*-.- -U-p-o-n- -e-v-e-r-y- -c-o-m-m-i-t-:-
---- -A- -c-l-o-u-d- -r-u-n-n-e-r- -s-p-i-n-s- -u-p- -a-n- -U-b-u-n-t-u- -e-n-v-i-r-o-n-m-e-n-t-.-
---- -I-n-s-t-a-l-l-s- -a-l-l- -d-a-t-a- -s-c-i-e-n-c-e- -d-e-p-e-n-d-e-n-c-i-e-s-.-
---- -R-u-n-s- -s-t-r-u-c-t-u-r-a-l- -l-i-n-t-i-n-g- -(--l-a-k-e-8-)- -t-o- -g-u-a-r-a-n-t-e-e- -c-o-d-e- -q-u-a-l-i-t-y- -a-n-d- -c-a-t-c-h- -s-y-n-t-a-x- -e-r-r-o-r-s- -b-e-f-o-r-e- -t-h-e-y- -r-e-a-c-h- -p-r-o-d-u-c-t-i-o-n-.-
--
--------
--
--#-#- -⚠-️- -D-i-s-c-l-a-i-m-e-r-
--
--T-h-i-s- -p-r-o-j-e-c-t- -i-s- -f-o-r- -e-d-u-c-a-t-i-o-n-a-l- -a-n-d- -p-o-r-t-f-o-l-i-o- -p-u-r-p-o-s-e-s- -o-n-l-y-.- -F-i-n-a-n-c-i-a-l- -m-a-r-k-e-t-s- -a-r-e- -h-i-g-h-l-y- -v-o-l-a-t-i-l-e- -a-n-d- -i-n-f-l-u-e-n-c-e-d- -b-y- -u-n-p-r-e-d-i-c-t-a-b-l-e- -r-e-a-l---w-o-r-l-d- -e-v-e-n-t-s-.- -D-o- -n-o-t- -u-s-e- -t-h-i-s- -m-o-d-e-l- -f-o-r- -a-c-t-u-a-l- -f-i-n-a-n-c-i-a-l- -t-r-a-d-i-n-g- -o-r- -i-n-v-e-s-t-m-e-n-t- -d-e-c-i-s-i-o-n-s-.-
--
--#-#- -�-�-‍-�-�- -A-u-t-h-o-r-
--*-*-F-a-w-a-z- -A-s-i-f-*-*-
+<div align="center">
+
+# LSTM Stock Predictor
+
+### Time-Series Forecasting for Financial Markets using Deep Learning
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch/Keras](https://img.shields.io/badge/Deep_Learning-LSTM-FF6F00?style=for-the-badge&logo=keras&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+### ðŸŒ **[Live Demo: Try the Streamlit App Here!](https://stock-predictor-using-lstm-model-km4vnsnhvstukrral4ra4e.streamlit.app/)**
+
+A machine learning application that uses Long Short-Term Memory (LSTM) neural networks to predict future stock prices based on historical market data. Designed to demonstrate competency in time-series forecasting, sequential data processing, and financial data analysis.
+
+</div>
+
+---
+
+## Why LSTMs?
+
+Standard neural networks evaluate data points independently. Financial markets, however, are sequential - today's price is heavily influenced by yesterday's price. 
+
+**Long Short-Term Memory (LSTM)** networks are a specialized type of Recurrent Neural Network (RNN) that can maintain an "internal state" or memory over long sequences, making them the industry standard architecture for time-series forecasting like stock price prediction.
+
+---
+
+## Features
+
+- **Data Fetching & Preprocessing**: Automatically pulls historical stock data and scales it for neural network consumption.
+- **Sequence Generation**: Converts flat time-series data into sliding window sequences required for LSTM training.
+- **Deep Learning Architecture**: Custom LSTM model designed to capture both short-term volatility and long-term trends.
+- **Visualization**: Generates clear, comparative graphs showing actual historical prices vs. the model's predictions.
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- pip
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Fawaz-asif/stock-predictor-using-LSTM-model.git
+cd stock-predictor-using-LSTM-model
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the application:
+```bash
+python app.py
+```
+
+---
+
+## Continuous Integration
+
+This repository implements a CI/CD pipeline using **GitHub Actions**. Upon every commit:
+- A cloud runner spins up an Ubuntu environment.
+- Installs all data science dependencies.
+- Runs structural linting (`flake8`) to guarantee code quality and catch syntax errors before they reach production.
+
+---
+
+## Disclaimer
+
+This project is for educational and portfolio purposes only. Financial markets are highly volatile and influenced by unpredictable real-world events. Do not use this model for actual financial trading or investment decisions.
+
+## Author
+**Fawaz Asif**
