@@ -33,6 +33,31 @@ Standard neural networks evaluate data points independently. Financial markets, 
 
 ---
 
+## Evaluation Metrics
+
+Multiple models have been trained and evaluated as part of this stock prediction project:
+
+### 1. Google Stock Price Predictor (Deep Learning - LSTM)
+- **Model Type:** Long Short-Term Memory (LSTM) Neural Network
+- **Framework:** Keras / TensorFlow
+- **Dataset:** Historical Google stock prices (`Google_train_data.csv` and `Google_test_data.csv`)
+- **Architecture:** 4 LSTM layers (100 units each) with Dropout layers (0.2) and a Dense output layer
+- **Training Configuration:** 20 epochs, batch size 32, Adam optimizer
+- **Performance:** 
+  - **Final Training Loss (MSE):** `0.0045`
+
+### 2. Tesla Stock Price Predictor (Statistical - Linear Regression)
+- **Model Type:** Ordinary Least Squares Linear Regression
+- **Framework:** Scikit-learn
+- **Dataset:** Historical Tesla stock prices (`tesla.csv`)
+- **Performance:**
+  | Metric | Training Set | Testing Set |
+  | :--- | :---: | :---: |
+  | **R² Score (R-squared)** | `0.8659` | `0.8611` |
+  | **Mean Squared Error (MSE)** | `1821.38` | `1780.99` |
+
+---
+
 ## Getting Started
 
 ### Prerequisites
